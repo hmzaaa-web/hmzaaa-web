@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on <a href = https://localreach.in>LocalReach</a> <br>✨ I have worked on <a href = https://thenextork.in>The NextWork</a>,<a href = https://mfdresses.in>MF Dresses</a> and <a href = https://iscjava.online>ISC Java</a><br>🌱 I’m currently learning css and js<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on <a href = https://localreach.in style="color: var(#4CAF50)">LocalReach</a> <br>✨ I have worked on <a href = https://thenextork.in style="color: var(#008080)>The NextWork</a>, <a href = https://mfdresses.in>MF Dresses</a> and <a href = https://iscjava.online>ISC Java</a><br>🌱 I’m currently learning css and js<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
